@@ -1,0 +1,11 @@
+{
+  "ignore": [],
+  "env": {
+    "NODE_ENV": "development",
+    "PORT": 3000,
+    "CONFIRMATION": "fd39920d",
+    "MONGO_URL": "mongodb://127.0.0.1:27017/vkbot"
+  },
+  "ext": ".js,.json",
+  "watch": "./"
+}
